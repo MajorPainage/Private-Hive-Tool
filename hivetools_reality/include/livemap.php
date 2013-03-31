@@ -126,10 +126,10 @@ $ADDY       = '15';
 if ($DZ_MAP == '8'){
 $WORLD_X    = '12000';
 $WORLD_Y    = '12000';
-$MAP_H      = '750';
-$MAP_W      = '1088';
-$ADDX       = '30';
-$ADDY       = '15';
+$MAP_H      = '725';
+$MAP_W      = '775';
+$ADDX       = '-200';
+$ADDY       = '10';
 }
 
 //CELLE
@@ -154,8 +154,8 @@ $ADDY       = '15';
 
 //THIRSK
 if ($DZ_MAP == '11'){
-$WORLD_X    = '25600';
-$WORLD_Y    = '25600';
+$WORLD_X    = '5120';
+$WORLD_Y    = '5120';
 $MAP_H      = '5129';
 $MAP_W      = '5128';
 $ADDX       = '30';
@@ -164,8 +164,8 @@ $ADDY       = '15';
 
 //THIRSK WINTER
 if ($DZ_MAP == '13'){
-$WORLD_X    = '25600';
-$WORLD_Y    = '25600';
+$WORLD_X    = '5120';
+$WORLD_Y    = '5120';
 $MAP_H      = '5129';
 $MAP_W      = '5128';
 $ADDX       = '30';
@@ -291,8 +291,8 @@ $( "#opener_'.$ob['PlayerUID'].'" ).click(function() {
 	
 $vehicle =''; 
 foreach($arr['objekte'] as $key => $ob){
-       $x = ($ob['Worldspace']['x']/10);
-       $y = ($ob['Worldspace']['y']/10);
+       $x = ($ob['Worldspace']['x']/10)+$ADDX;
+       $y = ($ob['Worldspace']['y']/10)-$ADDY;
        $mapX = round($ob['Worldspace']['x']/100);
        $mapY = round($ob['Worldspace']['y']/100);
 	   
