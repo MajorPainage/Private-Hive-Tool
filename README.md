@@ -7,6 +7,7 @@ Private-Hive-Tool
 Updated to include other maps:
 
 - Celle (requires tweaking)
+- Lingor (not all vehicles appear on map - requires fixing by nightmare)
 - Namalsk
 - Taviana
 
