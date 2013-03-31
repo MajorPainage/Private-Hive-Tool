@@ -1,0 +1,28 @@
+.inventar {
+background-image:url(../images/inventar.png);
+background-size:500px 580px;
+height:580px;
+width:600px;
+background-repeat:no-repeat;
+} 
+
+div.back       { margin: 280px 90px;position: absolute;}
+div.rifles    { margin: 165px 40px;position: absolute;}
+div.pistols  { margin: 390px 70px;position: absolute;}
+div.tools1    { margin: 45px 10px;position: absolute;}
+div.tools2    { margin: 45px 390px;position: absolute;}
+
+div.belt1     { margin: 510px 70px;position: absolute;}
+div.belt2     { margin: 510px 130px;position: absolute;}
+div.belt3     { margin: 510px 195px;position: absolute;}
+div.belt4     { margin: 510px 256px;position: absolute;}
+div.belt5     { margin: 510px 320px;position: absolute;}
+div.belt6     { margin: 510px 378px;position: absolute;}
+div.belt7     { margin: 565px 70px;position: absolute;}
+div.belt8     { margin: 565px 130px;position: absolute;}
+div.belt9     { margin: 565px 195px;position: absolute;}
+div.belt10    { margin: 565px 256px;position: absolute;}
+div.belt11    { margin: 565px 320px;position: absolute;}
+
+div.item2_1    { margin: 390px 195px;position: absolute;}
+

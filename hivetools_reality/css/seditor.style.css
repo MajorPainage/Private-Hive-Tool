@@ -1,0 +1,13 @@
+tr.list{
+color: #9f0000;
+background:#dddddd;
+width:500px;
+height:50px;
+}
+
+
+td.list { 
+padding: 1px 1px; 
+border-top: 0.10em solid #333;
+border-bottom: 0.10em solid #333;
+}
