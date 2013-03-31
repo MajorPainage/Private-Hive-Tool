@@ -5,12 +5,17 @@ Private-Hive-Tool
 
 Added builds and other maps:
 - Lite
+
  1 = chernarus 
+
 
 - Pwnoz0r
+
  1 = chernarus 
 
+
 - Reality
+
  1 = chernarus 
  2 = lingor (For Lingor-Skar, world must be 2 and not 14 as in old builds)
  3 = utes (map image not added yet)
