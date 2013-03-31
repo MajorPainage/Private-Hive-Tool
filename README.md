@@ -3,11 +3,16 @@ Private-Hive-Tool
 
 (Created by Nightmare)
 
+Added builds:
+- Lite
+- Pwnoz0r
+- Reality
+
 
 Updated to include other maps:
 
 - Celle (requires tweaking)
-- Lingor (not all vehicles appear on map - requires fixing by nightmare)
+- Lingor (For Lingor-Skar, world must be 2 and not 14 as in old db structures)
 - Namalsk
 - Taviana
 
