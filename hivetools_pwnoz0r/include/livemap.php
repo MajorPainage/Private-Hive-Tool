@@ -61,46 +61,6 @@ $X       = array (10,30,100);
 $Y       = array (10,15,100);
 }
 
-//LINGOR
-if ($DZ_MAP == '2'){
-$WORLD_X    = '10000';
-$WORLD_Y    = '10000';
-$MAP_H      = '1048';
-$MAP_W      = '1094';
-$X       = array (10,30,100);
-$Y       = array (10,15,100);
-}
-
-//NAMALSK
-if ($DZ_MAP == '8'){
-$WORLD_X    = '12000';
-$WORLD_Y    = '12000';
-$MAP_H      = '750';
-$MAP_W      = '1088';
-$X       = array (10,30,100);
-$Y       = array (10,15,100);
-}
-
-//CELLE
-if ($DZ_MAP == '9'){
-$WORLD_X    = '13000';
-$WORLD_Y    = '13000';
-$MAP_H      = '1047';
-$MAP_W      = '1050';
-$X       = array (10,30,100);
-$Y       = array (10,15,100);
-}
-
-//TAVIANA
-if ($DZ_MAP == '10'){
-$WORLD_X    = '25600';
-$WORLD_Y    = '25600';
-$MAP_H      = '2625';
-$MAP_W      = '2100';
-$X       = array (10,30,100);
-$Y       = array (10,15,100);
-}
-
    
    $vehicle_result = $db->query("SELECT `Classname`, `ObjectID`, `Worldspace` FROM `object_data` 
    WHERE 

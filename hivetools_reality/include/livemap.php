@@ -72,6 +72,56 @@ $ADDX       = '30';
 $ADDY       = '15';
 }
 
+//UTES
+if ($DZ_MAP == '3'){
+$WORLD_X    = '5100';
+$WORLD_Y    = '5100';
+$MAP_H      = '1048';
+$MAP_W      = '1094';
+$ADDX       = '30';
+$ADDY       = '15';
+}
+
+//TAKISTAN
+if ($DZ_MAP == '4'){
+$WORLD_X    = '14000';
+$WORLD_Y    = '14000';
+$MAP_H      = '1048';
+$MAP_W      = '1094';
+$ADDX       = '30';
+$ADDY       = '15';
+}
+
+//PANTHERA
+if ($DZ_MAP == '5'){
+$WORLD_X    = '10200';
+$WORLD_Y    = '10200';
+$MAP_H      = '1048';
+$MAP_W      = '1094';
+$ADDX       = '30';
+$ADDY       = '15';
+}
+
+//FALLUJAH
+if ($DZ_MAP == '6'){
+$WORLD_X    = '10200';
+$WORLD_Y    = '10200';
+$MAP_H      = '1048';
+$MAP_W      = '1094';
+$ADDX       = '30';
+$ADDY       = '15';
+}
+
+//ZARGABAD
+if ($DZ_MAP == '7'){
+$WORLD_X    = '8000';
+$WORLD_Y    = '8000';
+$MAP_H      = '1048';
+$MAP_W      = '1094';
+$ADDX       = '30';
+$ADDY       = '15';
+}
+
 //NAMALSK
 if ($DZ_MAP == '8'){
 $WORLD_X    = '12000';
@@ -98,6 +148,36 @@ $WORLD_X    = '25600';
 $WORLD_Y    = '25600';
 $MAP_H      = '2625';
 $MAP_W      = '2100';
+$ADDX       = '30';
+$ADDY       = '15';
+}
+
+//THIRSK
+if ($DZ_MAP == '11'){
+$WORLD_X    = '25600';
+$WORLD_Y    = '25600';
+$MAP_H      = '5129';
+$MAP_W      = '5128';
+$ADDX       = '30';
+$ADDY       = '15';
+}
+
+//THIRSK WINTER
+if ($DZ_MAP == '13'){
+$WORLD_X    = '25600';
+$WORLD_Y    = '25600';
+$MAP_H      = '5129';
+$MAP_W      = '5128';
+$ADDX       = '30';
+$ADDY       = '15';
+}
+
+//ORING
+if ($DZ_MAP == '16'){
+$WORLD_X    = '25600';
+$WORLD_Y    = '25600';
+$MAP_H      = '2322';
+$MAP_W      = '2320';
 $ADDX       = '30';
 $ADDY       = '15';
 }
