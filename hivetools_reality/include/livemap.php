@@ -146,10 +146,10 @@ $ADDY       = '15';
 if ($DZ_MAP == '10'){
 $WORLD_X    = '25600';
 $WORLD_Y    = '25600';
-$MAP_H      = '2625';
-$MAP_W      = '2100';
-$ADDX       = '30';
-$ADDY       = '15';
+$MAP_H      = '2335';
+$MAP_W      = '1900';
+$ADDX       = '-30';
+$ADDY       = '230';
 }
 
 //THIRSK
