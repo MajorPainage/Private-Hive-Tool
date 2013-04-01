@@ -66,10 +66,10 @@ $ADDY       = '15';
 if ($DZ_MAP == '2'){
 $WORLD_X    = '10000';
 $WORLD_Y    = '10000';
-$MAP_H      = '1048';
-$MAP_W      = '1094';
-$ADDX       = '30';
-$ADDY       = '15';
+$MAP_H      = '960';
+$MAP_W      = '980';
+$ADDX       = '-17';
+$ADDY       = '55';
 }
 
 //UTES
