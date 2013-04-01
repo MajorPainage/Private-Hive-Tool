@@ -136,10 +136,10 @@ $ADDY       = '10';
 if ($DZ_MAP == '9'){
 $WORLD_X    = '13000';
 $WORLD_Y    = '13000';
-$MAP_H      = '1410';
+$MAP_H      = '1225';
 $MAP_W      = '1250';
-$ADDX       = '30';
-$ADDY       = '15';
+$ADDX       = '0';
+$ADDY       = '85';
 }
 
 //TAVIANA
